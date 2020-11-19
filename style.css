@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+  	background-color: lavender; }
+
+#link_bar a:link { color:darkblue; }
+title{
+	color:darkblue;
+    text-align: center;}
+h1 {
+	text-align: center;
+	background-color:cornflowerblue;
+  	color: navy; }
+h2 {
+  	text-decoration: underline;
+    color: blue;
+    text-align: center; }
+h3 {
+	color:darkblue;
+}
+p { 
+	color:darkblue;
+    text-align: center;
